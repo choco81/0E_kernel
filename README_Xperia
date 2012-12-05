@@ -1,0 +1,4 @@
+Configuration files can be found in arch/arm/configs.
+
+    Xperia VL SOL21 => blue_tsubasa_kddi_defconfig
+    Xperia AX SO-01E => blue_tsubasa_dcm_defconfig
